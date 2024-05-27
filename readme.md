@@ -7,7 +7,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/taco-recipes.git
+   git clone git@github.com:Nickgalant/Taco-Recipes.git
 
 2. Clone the repository:
    ```bash
